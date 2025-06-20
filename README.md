@@ -1,5 +1,5 @@
 # daylight_hrs
-With this script, I can calculate how much daylight a certain latitude receives per day of the year.
+With [this](Hours_of_daylight_per_latitude.ipynb) script, I can calculate how much daylight a certain latitude receives per day of the year.
 
 I use the following two references:
 - https://www.astrouw.edu.pl/~jskowron/pracownia/praca/sunspot_answerbook_expl/expl-5.html
